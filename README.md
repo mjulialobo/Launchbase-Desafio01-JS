@@ -6,7 +6,8 @@
   Challenge 1: first steps with JavaScript
 </h3>
  <p align="center"> applications developed during Rocketseat's Launchbase bootcamp </P>  
-<h2> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> What we created? </h2>
+<h2> <img src= "https://img.icons8.com/plasticine/2x/rocket.png" width="50px" height="50px" align="center"/> 
+What was created? </h2>
 <ol> <li> Program to calculate a person's BMI; </li>
 <li> Program to calculate a person's retirement; </li>
 <li> Program to store information about a company; </li>
